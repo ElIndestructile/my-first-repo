@@ -1,30 +1,22 @@
-# This is a large heading
+# Angel Ivan Martinez Martinez
 
-## This is a smaller heading
+### Hubicacion
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+vivo en ciudad de mexico, especificamente en azcapotzalco
 
-- This is
-- an unordered
-- list
+### Leyendo
 
-1. This is
-2. an ordered
-3. list
+Mi libro favorito es el de Azteca de Gary Jennings
 
-Here is `some code` in the middle of a sentence.
+### Comida
 
-```
-This is
-a block
-of code
-```
+Mi comida favorita es:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Tacos
+2. Mariscos
+3. Gorditas
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contacto
 
-nano README.md
+Me pueden contactar por [Twitter](https://twitter.com/angelivanmarmar)
+
